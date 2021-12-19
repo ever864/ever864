@@ -16,4 +16,4 @@ Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever864&layout=compact)](https://github.com/ever864/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ever864/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ever864)](https://github.com/ever864/github-readme-stats)
