@@ -1,7 +1,7 @@
 Hi there, I'm Jesse - aka codeSTACKr wave
 Website Twitter Follow
 
-I'm a Ever,
+I'm a Ever, :smile:
 telescope I just launched my first course: Become A VS Code SuperHero!!
 seedling I’m currently learning everything rofl
 dancers I’m looking to collaborate with other content creators
