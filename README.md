@@ -1,5 +1,3 @@
-[![MasterHead](your image link)](your GitHub link)
-
 
 This is the place where i opensource stuff and break things
 
@@ -10,9 +8,6 @@ I'm a Ever, :smile:
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/farm-harvest-farmworker-iOUTXywxARpI6P3vtl">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
