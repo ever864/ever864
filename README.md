@@ -1,4 +1,4 @@
-Hi there, I'm Jesse - aka codeSTACKr wave
+Hi there, I'm Ever - aka codeSTACKr wave
 Website Twitter Follow
 
 I'm a Ever, :smile:
