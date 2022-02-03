@@ -1,7 +1,13 @@
+Welcome to my Github page! 
+
+This is Ever Ponce!, :smile:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ever864)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/everponce/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ever864@gmail.com)
 
 This is the place where i opensource stuff and break things
 
-I'm a Ever, :smile:
+
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
