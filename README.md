@@ -6,13 +6,10 @@
 
 This is the place where i opensource stuff and break things
 
-
-
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="" height="30" width="40" /></a>
 
 
 Languages and Tools:
