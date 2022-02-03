@@ -1,6 +1,5 @@
 ## Hey 👋, I'm [Ever Ponce!](https://github.com/ever864/)
 
-This is <h1>Ever Ponce!</h1>, :smile: <br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ever864)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/everponce/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ever864@gmail.com)
