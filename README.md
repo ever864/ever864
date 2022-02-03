@@ -14,7 +14,4 @@ codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeS
 Languages and Tools:
 Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever864&layout=compact)](https://github.com/ever864/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever864)](https://github.com/ever864/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever864&layout=compact)](https://github.com/ever864/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever864)](https://github.com/ever864/github-readme-stats)
