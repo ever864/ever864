@@ -38,6 +38,7 @@ Languages and Tools:
 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever864&show_icons=true&theme=radical)
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever864&layout=compact)](https://github.com/ever864/github-readme-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever864&show_icons=true&theme=radical) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever864&layout=compact)](https://github.com/ever864/github-readme-stats)
+
