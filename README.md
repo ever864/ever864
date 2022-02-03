@@ -5,6 +5,10 @@ This is the place where i opensource stuff and break things
 
 I'm a Ever, :smile:
 
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
