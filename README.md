@@ -5,7 +5,7 @@
 
 This is the place where i opensource stuff and break things
 
-- 🔭 &nbsp; I’m currently learning Full Stack Development
+- 🔭 &nbsp; I am currently improving as a Full Stack Ruby On Rails Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 
