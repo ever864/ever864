@@ -3,11 +3,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ever864)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ever864@gmail.com)
 
-This is the place where i opensource stuff and break things
+This is the place where I opensource stuff and break things
 
-- 🔭 &nbsp; I am currently improving as a Full Stack Ruby On Rails Development
+- 🔭 &nbsp; I am currently improving as a Full Stack Ruby On Rails Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
 
 Languages and Tools:
 
