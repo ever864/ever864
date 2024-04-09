@@ -7,7 +7,6 @@ This is the place where I opensource stuff and break things
 
 - 🔭 &nbsp; I am currently improving as a Full Stack Ruby On Rails Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
 
 Languages and Tools:
 
