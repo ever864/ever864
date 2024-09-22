@@ -5,7 +5,6 @@
 
 This is the place where I opensource stuff and break things
 
-- 🔭 &nbsp; I am currently improving as Software Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 Languages and Tools:
