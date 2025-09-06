@@ -5,7 +5,7 @@
 
 This is the place where I opensource stuff and break things
 
-- 👨‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👨‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks. Entrepreneurship is too my pasión.
 
 Languages and Tools:
 
